@@ -1,0 +1,33 @@
+_repo: The-narrative-of-a-journey-undertaken-in-the-years-1819-1820-and-1821-through-France-Italy-Sa__71556
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holman, James
+    birthdate: 1786
+    deathdate: 1857
+    gutenberg_agent_id: '4408'
+    url: http://www.gutenberg.org/2009/agents/4408
+    wikipedia: https://en.wikipedia.org/wiki/James_Holman
+description: ''
+gutenberg_issued: '2023-09-03'
+identifiers:
+  gutenberg: '71556'
+language: en
+pgterms:marc904: https://archive.org/details/b29304805/page/n5/mode/2up
+pgterms:marc905: 20211114105620holman
+pgterms:marc906: '1825'
+pgterms:marc907: GB
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bG. B Whittaker, $c1825.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The narrative of a journey undertaken in the years 1819, 1820 and 1821 through
+  France, Italy, Savoy, Switzerland, parts of Germany bordering on the Rhine, Holland
+  and the Netherlands : $b comprising incidents that occurred to the author, who has
+  long suffered under a total deprivation of sight; with various points of information
+  collected on his tour'
+url: http://www.gutenberg.org/ebooks/71556
